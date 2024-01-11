@@ -1,9 +1,13 @@
-![example workflow](https://github.com/rzgry/Express-REST-API-Template/actions/workflows/node.js.yml/badge.svg)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+# RESTful API Aggregator
 
-# Express-REST-API-Template
+A powerful RESTful API aggregator built with Express.js and Node.js. This API fetches data from various APIs, allowing users to customize caching and data storage options.
 
-Simple express boilerplate based off of [express-generator](https://expressjs.com/en/starter/generator.html). Includes [eslint](https://eslint.org) and [prettier](https://prettier.io) for linting/code formatting, [nodemon](https://github.com/remy/nodemon) for automatic server restarting, and [Jest](https://jestjs.io) for testing.
+## Features
+
+- **Versatile Data Sources**: Retrieve data from a variety of external APIs seamlessly.
+- **Custom Caching**: Implement your caching strategy to optimize performance.
+- **Easy Integration with Express.js**: Built on top of Express.js for simplicity and flexibility.
+- **Scalable and Extensible**: Easily add new APIs and extend functionality.
 
 ## Getting Started
 
